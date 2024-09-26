@@ -1,0 +1,6 @@
+[submodule "buildroot-mchp"]
+	path = buildroot-mchp
+	url = https://github.com/linux4microchip/buildroot-mchp.git
+[submodule "final-project-base-external"]
+	path = final-project-base-external
+	url = git@github.com:jsawicki5/final-project-base-external.git
